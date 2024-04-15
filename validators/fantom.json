@@ -1,0 +1,6 @@
+{
+"name": "Ruby Nodes", /* Name of the validator /
+"logoUrl": "LOGO_URL", / Validator logo (PNG|JPEG|SVG) - 100px x 100px is enough /
+"website": "https://rubynodes.io", / Website icon on the right /
+"contact": "mailto:ruby-nodes@proton.me" / Contact icon on the right */
+}
