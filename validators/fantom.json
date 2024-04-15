@@ -1,6 +1,6 @@
 {
-"name": "Ruby Nodes", /* Name of the validator /
-"logoUrl": "https://raw.githubusercontent.com/ruby-nodes/media-kit/a804d230532d22b3a3bbb03cd386bc2ae8e613d3/RN_transparent_BlackIcon.png", / Validator logo (PNG|JPEG|SVG) - 100px x 100px is enough /
-"website": "https://rubynodes.io", / Website icon on the right /
-"contact": "mailto:ruby-nodes@proton.me" / Contact icon on the right */
+"name": "Ruby Nodes",
+"logoUrl": "https://raw.githubusercontent.com/ruby-nodes/media-kit/a804d230532d22b3a3bbb03cd386bc2ae8e613d3/RN_transparent_BlackIcon.png", 
+"website": "https://rubynodes.io", 
+"contact": "mailto:ruby-nodes@proton.me" 
 }
